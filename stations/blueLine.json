@@ -1,0 +1,206 @@
+[
+        {
+            "name": "Noida Electronic City",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Noida Sector 62",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Noida Sector 59",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Noida Sector 61",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Noida Sector 52",
+            "lines": ["Blue","Aqua"]
+          },
+          {
+            "name": "Noida Sector 34",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Noida City Centre",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Golf Course",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Botanical Garden",
+            "lines": ["Blue","Magenta"]
+          },
+          {
+            "name": "Noida Sector 18",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Noida Sector 16",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Noida Sector 15",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "New Ashok Nagar",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Mayur Vihar Extension",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Mayur Vihar-l",
+            "lines": ["Blue","Pink"]
+          },
+          {
+            "name": "Akshardham",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Yamuna Bank",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Indraprastha",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Supreme Court",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Mandi House",
+            "lines": ["Blue","Violet"]
+          },
+          {
+            "name": "Barakhamba Road",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Rajiv Chowk",
+            "lines": ["Blue","Yellow"]
+          },
+          {
+            "name": "Ramakrishna Ashram Marg",
+            "lines": ["Blue","Magenta"]
+          },
+          {
+            "name": "Jhandewalan",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Karol Bagh",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Rajendra Place",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Patel Nagar",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Shadipur",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Kirti Nagar",
+            "lines": ["Blue","Green"]
+          },
+          {
+            "name": "Moti Nagar",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Ramesh Nagar",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Rajouri Garden",
+            "lines": ["Blue","Pink"]
+          },
+          {
+            "name": "Tagore Garden",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Subhash Nagar",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Tilak Nagar",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Janakpuri East",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Janakpuri West",
+            "lines": ["Blue","Magenta"]
+          },
+          {
+            "name": "Uttam Nagar East",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Uttam Nagar West",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Nawada",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Dwarka Mor",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Dwarka",
+            "lines": ["Blue","Grey"]
+          },
+          {
+            "name": "Dwarka Sector 14",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Dwarka Sector 13",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Dwarka Sector 12",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Dwarka Sector 11",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Dwarka Sector 10",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Dwarka Sector 9",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Dwarka Sector 8",
+            "lines": ["Blue"]
+          },
+          {
+            "name": "Dwarka Sector 21",
+            "lines": ["Blue","Orange"]
+          }
+          
+      
+    ]
+  
+  

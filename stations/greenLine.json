@@ -1,0 +1,88 @@
+[
+      {
+        "name": "Inderlok",
+        "lines": ["Green","Red"]
+      },
+      {
+        "name": "Ashok Park Main",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Punjabi Bagh East",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Punjabi Bagh West",
+        "lines": ["Green","Pink"]
+      },
+      {
+        "name": "Shivaji Park",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Madipur",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Paschim Vihar East",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Paschim Vihar West",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Peeragarhi",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Udyog Nagar",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Maharaja Surajmal Stadium",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Nangloi",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Nangloi Railway Station",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Rajdhani Park Mundka",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Mundka Industrial Area (MIA)",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Ghevra",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Tikri Kalan",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Tikri Border",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Pandit Shree Ram Sharma",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Bahadurgarh City",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Brigadier Hoshiyar Singh",
+        "lines": ["Green"]
+      }
+    ]
+  
+  

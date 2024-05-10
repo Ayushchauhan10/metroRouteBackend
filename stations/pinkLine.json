@@ -1,0 +1,156 @@
+ [
+      {
+        "name": "Majlis Park",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Azadpur",
+        "lines": ["Pink","Yellow"]
+      },
+      {
+        "name": "Shalimar Bagh",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Netaji Subhash Place",
+        "lines": ["Pink","Red"]
+      },
+      {
+        "name": "Shakurpur",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Punjabi Bagh West",
+        "lines": ["Pink","Green"]
+      },
+      {
+        "name": "ESI - Basaidarapur",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Rajouri Garden",
+        "lines": ["Pink","Blue"]
+      },
+      {
+        "name": "Mayapuri",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Naraina Vihar",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Delhi Cantonment",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Durgabai Deshmukh South Campus",
+        "lines": ["Pink","Orange"]
+      },
+      {
+        "name": "Sir M. Vishweshwaraiah Moti Bagh",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Bhikaji Cama Place",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Sarojini Nagar",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Dilli Haat - INA",
+        "lines": ["Pink","Yellow"]
+      },
+      {
+        "name": "South Extension",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Lajpat Nagar",
+        "lines": ["Pink","Violet"]
+      },
+      {
+        "name": "Vinobapuri",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Ashram",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Sarai Kale Khan - Nizamuddin",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Mayur Vihar-l",
+        "lines": ["Pink","Blue"]
+      },
+      {
+        "name": "Mayur Vihar Pocket I",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Trilokpuri Sanjay Lake",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "East Vinod Nagar",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Mayur Vihar-Il",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Mandawali - West Vinod Nagar",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Anand Vihar",
+        "lines": ["Blue"]
+      },
+      {
+        "name": "Karkarduma",
+        "lines": ["Blue"]
+      },
+      {
+        "name": "Karkarduma Court",
+        "lines": ["Blue"]
+      },
+      {
+        "name": "Krishna Nagar",
+        "lines": ["Blue"]
+      },
+      {
+        "name": "East Azad Nagar",
+        "lines": ["Blue"]
+      },
+      {
+        "name": "Welcome",
+        "lines": ["Blue"]
+      },
+      {
+        "name": "Jaffrabad",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Maujpur - Babarpur",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Gokulpuri",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Johri Enclave",
+        "lines": ["Pink"]
+      },
+      {
+        "name": "Shiv Vihar",
+        "lines": ["Pink"]
+      }
+    ]
+  
+  
