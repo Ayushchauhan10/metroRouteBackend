@@ -1,26 +1,11 @@
 const express = require("express");
 const router = express.Router()
-const {findShortestPath}=require('../shortestPath');
+
 const {findFastestPath}=require('../fastestPath');
 
 // console.log("Hello from station route");
 
-router.post('/findShortestRoute',(req,res)=>{
-    try {
-            const { startStation, endStation } = req.body;
-            // var  startStation="Majlis Park";
-            // var endStation="Dwarka Mor";
-            // console.log(startStation,endStation);
-            
-            const adjacencyList = req.adjacencyList;
-            // console.log("Before function" );
-            const shortestPath = findShortestPath(adjacencyList, startStation, endStation);
-            
-            res.json({ shortestPath });
-    } catch (error) {
-        res.status(500).json({ error: error.message });
-    }
-});
+
 
 router.post('/',(req,res)=>{
     try {

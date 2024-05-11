@@ -52,7 +52,11 @@
         "lines": ["Green"]
       },
       {
-        "name": "Rajdhani Park Mundka",
+        "name": "Rajdhani Park",
+        "lines": ["Green"]
+      },
+      {
+        "name": "Mundka",
         "lines": ["Green"]
       },
       {
