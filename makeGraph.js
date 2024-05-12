@@ -226,11 +226,6 @@ function getAllStations(){
         g.addEdge(greyLine[i], greyLine[i + 1], 2.10, "grey");
     }
 
-
-    
-
-
-
 }
 
 

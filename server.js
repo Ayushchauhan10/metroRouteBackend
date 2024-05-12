@@ -3,6 +3,9 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const stationRoute = require('./routes/stationRoute.js');
 const g=require('./makeGraph.js');
+const root= require('./makeTrie.js');
+
+
 
 const app = express();
 const PORT = process.env.PORT || 8000;
@@ -13,6 +16,7 @@ app.use(cors());
 app.use((req, res, next) => {
     req.adjacencyList = g.adjacencyList;
     req.stations = g.stations;
+    req.root=root;
     next();
 });
 
