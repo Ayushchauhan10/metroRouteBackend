@@ -1,34 +1,34 @@
 [
-          {
-            "name": "Yamuna Bank",
-            "lines": ["Blue"]
-          },
-          {
-            "name": "Laxmi Nagar",
-            "lines": ["Blue"]
-          },
-          {
-            "name": "Nirman Vihar",
-            "lines": ["Blue"]
-          },
-          {
-            "name": "Preet Vihar",
-            "lines": ["Blue"]
-          },
-          {
-            "name": "Karkarduma",
-            "lines": ["Blue","Pink"]
-          },
-          {
-            "name": "Anand Vihar",
-            "lines": ["Blue","Pink"]
-          },
-          {
-            "name": "Kaushambi",
-            "lines": ["Blue"]
-          },
-          {
-            "name": "Vaishali",
-            "lines": ["Blue"]
-          }
-    ]
+  {
+      "name": "Yamuna Bank",
+      "lines":["blue"]
+  },
+  {
+      "name": "Laxmi Nagar",
+      "lines":["blue"]
+  },
+  {
+      "name": "Nirman Vihar",
+      "lines":["blue"]
+  },
+  {
+      "name": "Preet Vihar",
+      "lines":["blue"]
+  },
+  {
+      "name": "Karkarduma",
+      "lines":["blue"]
+  },
+  {
+      "name": "Anand Vihar",
+      "lines":["blue"]
+  },
+  {
+      "name": "Kaushambi",
+      "lines":["blue"]
+  },
+  {
+      "name": "Vaishali",
+      "lines":["blue"]
+  }
+]

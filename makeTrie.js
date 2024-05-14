@@ -11,7 +11,7 @@ class Trie {
     }
 
     insert(word) {
-        if (!word) return; // Ensure word is not null or undefined
+        if (!word) return; 
         let node = this.root;
         for (let char of word.toLowerCase()) {
             if (!node.children[char]) {
@@ -52,17 +52,6 @@ class Trie {
 }
 
 const root = new Trie();
-// search(word) {
-//     if (!word) return false; // Ensure word is not null or undefined
-//     let node = this.root;
-//     for (let char of word.toLowerCase()) {
-//         if (!node || !node.children ||!node.children[char]) {
-//             return false;
-//         }
-//         node = node.children[char];
-//     }
-//     return node.isEndOfWord;
-// }
 
 // searchPrefix(word) {
 //     if (!word) return false; // Ensure word is not null or undefined
@@ -93,6 +82,7 @@ const stations = {
     greenLine: require('./stations/greenLine.json'),
     greenBranchedLine: require('./stations/greenBranchedLine.json'),
     pinkLine: require('./stations/pinkLine.json'),
+    pinkBranchedLine: require('./stations/pinkBranchedLine.json'),
     orangeLine: require('./stations/orangeLine.json'),
     greyLine: require('./stations/greyLine.json')
 };

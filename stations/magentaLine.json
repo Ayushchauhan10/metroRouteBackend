@@ -1,104 +1,102 @@
 [
-      {
-        "name": "Janakpuri West",
-        "lines": ["Magenta","Blue"]
-      },
-      {
-        "name": "Dabri Mor - Janakpuri South",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Dashrath Puri",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Palam",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Sadar Bazaar Cantonment",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Terminal 1-IGI Airport",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Shankar Vihar",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Vasant Vihar",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Munirka",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "R. K. Puram",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "IIT Delhi",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Hauz Khas",
-        "lines": ["Magenta","Yellow"]
-      },
-      {
-        "name": "Panchsheel Park",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Chirag Delhi",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Greater Kailash",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Nehru Enclave",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Kalkaji Mandir",
-        "lines": ["Magenta","Violet"]
-      },
-      {
-        "name": "Okhla NSIC",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Sukhdev Vihar",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Jamia Millia Islamia",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Okhla Vihar",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Jasola Vihar Shaheen Bagh",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Kalindi Kunj",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Okhla Bird Sanctuary",
-        "lines": ["Magenta"]
-      },
-      {
-        "name": "Botanical Garden",
-        "lines": ["Magenta","Blue"]
-      }
-    ]
-  
-  
+  {
+      "name": "Janakpuri West",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Dabri Mor-Janakpuri South",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Dashrath Puri",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Palam",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Sadar Bazaar Cantonment",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Terminal 1-IGI Airport",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Shankar Vihar",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Vasant Vihar",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Munirka",
+      "lines":["magenta"]
+  },
+  {
+      "name": "R.K.Puram",
+      "lines":["magenta"]
+  },
+  {
+      "name": "IIT Delhi",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Hauz Khas",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Panchsheel Park",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Chirag Delhi",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Greater Kailash",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Nehru Enclave",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Kalkaji Mandir",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Okhla NSIC",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Sukhdev Vihar",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Jamia Millia Islamia",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Okhla Vihar",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Jasola Vihar Shaheen Bagh",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Kalindi Kunj",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Okhla Bird Sanctuary",
+      "lines":["magenta"]
+  },
+  {
+      "name": "Botanical Garden",
+      "lines":["magenta"]
+  }
+]

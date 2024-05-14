@@ -1,4 +1,3 @@
-
 var blueLine = []
 var blueBranchedLine = []
 var magentaLine = []
@@ -8,8 +7,10 @@ var redLine = []
 var greenLine = []
 var greenBranchedLine = []
 var pinkLine = []
+var pinkBranchedLine = []
 var orangeLine = []
 var greyLine = []
+
 
 
 class MetroMap {
@@ -52,6 +53,7 @@ function getAllStations(){
    var green = require('./stations/greenLine.json')
    var greenBranched=require('./stations/greenBranchedLine.json')
    var pink = require('./stations/pinkLine.json')
+   var pinkBranched = require('./stations/pinkBranchedLine.json')
    var orange = require('./stations/orangeLine.json')
    var red = require('./stations/redLine.json')
    var grey = require('./stations/greyLine.json')
@@ -185,6 +187,20 @@ function getAllStations(){
     for (var i = 0; i < (pinkLine.length - 1); i++) {
         g.addEdge(pinkLine[i], pinkLine[i + 1], 2.69, "pink");
     }
+
+    //pinkBranchedLine
+    for (var i = 0; i < pinkBranched.length; i++) {
+        pinkBranchedLine[i] = pinkBranched[i]["name"].toLowerCase();
+      }
+      for (var i = 0; i < pinkBranchedLine.length; i++) {
+        if (pinkBranchedLine[i] == 'anand vihar' || pinkBranchedLine[i] == 'karkarduma' || pinkBranchedLine[i] == 'welcome')
+          continue;
+        else
+          g.addstation(pinkBranchedLine[i]);
+      }
+      for (var i = 0; i < (pinkBranchedLine.length - 1); i++) {
+        g.addEdge(pinkBranchedLine[i], pinkBranchedLine[i + 1], 2.43, "pinkbranch");
+      }
 
     //orange
     for (var i = 0; i < orange.length; i++) {
