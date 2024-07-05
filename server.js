@@ -6,7 +6,6 @@ const g=require('./makeGraph.js');
 const root= require('./makeTrie.js');
 
 
-
 const app = express();
 const PORT = process.env.PORT || 8000;
 

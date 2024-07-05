@@ -69,7 +69,7 @@ function getAllStations(){
         g.addstation(blueLine[i]);
     }
     for (var i = 0; i < (blueLine.length - 1); i++) {
-        g.addEdge(blueLine[i], blueLine[i + 1], 2.02, "blue");
+        g.addEdge(blueLine[i], blueLine[i + 1], 3.02, "blue");
     }
 
     //blueBranched
@@ -83,7 +83,7 @@ function getAllStations(){
             g.addstation(blueBranchedLine[i]);
     }
     for (var i = 0; i < (blueBranchedLine.length - 1); i++) {
-        g.addEdge(blueBranchedLine[i], blueBranchedLine[i + 1], 1.875, "bluebranch");
+        g.addEdge(blueBranchedLine[i], blueBranchedLine[i + 1], 1.87, "bluebranch");
     }
 
     //magenta
@@ -179,13 +179,13 @@ function getAllStations(){
         pinkLine[i] = pink[i]["name"].toLowerCase();
     }
     for (var i = 0; i < pinkLine.length; i++) {
-        if (pinkLine[i] == 'azadpur' || pinkLine[i] == 'netaji subhash place' || pinkLine[i] == 'rajouri garden' || pinkLine[i] == 'dilli haat - ina' || pinkLine[i] == 'lajpat nagar' || pinkLine[i] == 'mayur vihar – i')
+        if (pinkLine[i] == 'azadpur' || pinkLine[i] == 'netaji subhash place' || pinkLine[i] == 'rajouri garden' || pinkLine[i] == 'dilli haat - ina' || pinkLine[i] == 'lajpat nagar' || pinkLine[i] == 'mayur vihar - i')
         continue;
         else
         g.addstation(pinkLine[i]);
     }
     for (var i = 0; i < (pinkLine.length - 1); i++) {
-        g.addEdge(pinkLine[i], pinkLine[i + 1], 2.69, "pink");
+        g.addEdge(pinkLine[i], pinkLine[i + 1], 2.73, "pink");
     }
 
     //pinkBranchedLine

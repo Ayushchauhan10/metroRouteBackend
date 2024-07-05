@@ -53,17 +53,7 @@ class Trie {
 
 const root = new Trie();
 
-// searchPrefix(word) {
-//     if (!word) return false; // Ensure word is not null or undefined
-//     let node = this.root;
-//     for (let char of word.toLowerCase()) {
-//         if (!node || !node.children ||!node.children[char]) {
-//             return false;
-//         }
-//         node = node.children[char];
-//     }
-//     return true;
-// }
+
 
 function insertStations(stationNames) {
     for (let name of stationNames) {
@@ -71,7 +61,6 @@ function insertStations(stationNames) {
     }
 }
 
-// Define stations for each metro line
 const stations = {
     blueLine: require('./stations/blueLine.json'),
     blueBranchedLine: require('./stations/blueBranchedLine.json'),
@@ -87,7 +76,7 @@ const stations = {
     greyLine: require('./stations/greyLine.json')
 };
 
-// Insert stations for each metro line into the trie
+
 for (let line in stations) {
     insertStations(stations[line].map(station => station.name.toLowerCase()));
 }
