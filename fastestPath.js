@@ -89,16 +89,16 @@ pq.enqueue([start, 0]);
             if (getline(currentNode, neighbor.station,adj) != getline(currentNode, backtrace[currentNode],adj)) {
                 
               if (currentNode == 'Yamuna Bank' && neighbor.station == 'Indraprastha' && backtrace[currentNode] == 'Laxmi Nagar') {
-                time = time + 0;
+           
               }
               else if (currentNode == 'Yamuna Bank' && neighbor.station == 'Laxmi Nagar' && backtrace[currentNode] == 'Indraprastha') {
-                time = time + 0;
+                
               }
               else if (currentNode == 'Ashok Park Main' && neighbor.station == 'Punjabi Bagh' && backtrace[currentNode] == 'Satguru Ram Singh Marg') {
-                time = time + 0;
+               
               }
               else if (currentNode == 'Ashok Park Main' && neighbor.station == 'Satguru Ram Singh Marg' && backtrace[currentNode] == 'Punjabi Bagh') {
-                time = time + 0;
+  
               }
               else
                 time = time + 9;
